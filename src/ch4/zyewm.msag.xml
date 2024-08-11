@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>ZYEWM</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+    <STEXT>Messages for Enhancment 106A</STEXT>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZYEWM</ARBGB>
+     <MSGNR>361</MSGNR>
+     <TEXT>Please enter a pager number.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZYEWM</ARBGB>
+     <MSGNR>362</MSGNR>
+     <TEXT>Please enter a licence plate.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>ZYEWM</ARBGB>
+     <MSGNR>363</MSGNR>
+     <TEXT>Please enter a lic.plate and pager number.</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>
